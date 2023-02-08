@@ -1,4 +1,4 @@
-module go-rogue
+module github.com/icy-lava/go-rogue
 
 go 1.19
 
